@@ -6,6 +6,12 @@
 
 ## The Dataset 
 #### The Dataset contains 2 years sales details of a retail store. ( year 2023 and 2024 ). The file contains about 5000 rows and 7 columns. The files are as follows: 
-Order ID, Customer ID, Product, Region, Order Date, Quantity, Unit Price.
+Order ID 
+Customer ID
+Product
+Region
+Order Date
+Quantity
+Unit Price.
 
 
