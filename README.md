@@ -31,3 +31,5 @@
 
     ## Visual Analysis by Inference
     
+    
+    ![Screenshot 2024-11-18 144806](https://github.com/user-attachments/assets/03a4584b-8ba5-4e3f-89f9-6d12d8a0d0b6)
