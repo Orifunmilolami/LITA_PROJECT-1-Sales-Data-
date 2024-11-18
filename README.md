@@ -15,3 +15,19 @@
 *  Quantity
 *  Unit Price.
 
+## Project Objective
+### This Project was design to address the following analysis goals
+* Total Sales by Product: Determine the total sales of each product
+* Total Sales by Region: analyze the total revenue made in each region
+* Total Sales by Month: Calculate the total amount made in each
+
+  ## Key Metrics
+  * Average Sales per Product
+  * Total Revenue by Region
+ 
+    ## Formula Used
+
+
+
+    ## Visual Analysis by Inference
+    
