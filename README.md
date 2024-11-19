@@ -47,4 +47,5 @@
 
 ## Filtered Charts of Year 2024
 
-![Screenshot 2024-11-19 092618](https://github.com/user-attachments/assets/48e58e83-bcc2-4f40-9ffe-1198e987cbe1)
+
+![Screenshot 2024-11-19 110143](https://github.com/user-attachments/assets/9d9d4a0e-c92a-4dc5-9898-3a0cc056c07c)
