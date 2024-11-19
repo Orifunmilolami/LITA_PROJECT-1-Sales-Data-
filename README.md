@@ -26,10 +26,25 @@
   * Total Revenue by Region
  
     ## Formula Used
-
+  * for average sales per product = Averageif function
+  * for Total Revenue by Region = Sumif function
+  * fo Grande Total Revenue = Sum function
 
 
     ## Visual Analysis by Inference
     
-    
-    ![Screenshot 2024-11-18 144806](https://github.com/user-attachments/assets/03a4584b-8ba5-4e3f-89f9-6d12d8a0d0b6)
+    Calculated Metrics
+  
+![Screenshot 2024-11-19 084900](https://github.com/user-attachments/assets/a5316ef6-aa72-4d08-b017-391a329332d8)
+
+## Pivot Table
+
+  ![Screenshot 2024-11-18 151317](https://github.com/user-attachments/assets/737a21ba-0a66-4494-9203-45ca543d8bfa)
+
+## Filtered Charts of Year 2023
+
+![Screenshot 2024-11-19 083602](https://github.com/user-attachments/assets/eb453027-6474-43eb-8e45-e4f72502c98c)
+
+## Filtered Charts of Year 2024
+
+![Screenshot 2024-11-19 092618](https://github.com/user-attachments/assets/48e58e83-bcc2-4f40-9ffe-1198e987cbe1)
